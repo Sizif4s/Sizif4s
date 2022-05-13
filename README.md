@@ -10,7 +10,7 @@
 
 ---
 
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/105497240/168287457-196d5556-3951-4eea-b8ea-22cee11e0b1b.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/105497240/168292558-cf9279f4-6a4d-46f8-b343-b5e4c224ca83.png">
 
 >"DevOps is about creating services that others in our company can consume"
 
